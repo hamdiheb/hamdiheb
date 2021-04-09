@@ -3,7 +3,7 @@
 <p><em>Full-Time Microverse Student</em></p>
 
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me...  
 
 ```javascript
 const eliVillalejos = {
