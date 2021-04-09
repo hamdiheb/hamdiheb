@@ -1,7 +1,7 @@
 
 <h2> Hi, This Hamdi Iheb AKA IGOR! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Full-Time Microverse Student</em><img src="https://media.giphy.com/media/d0MBCsoypjJ1kDk1SK/giphy.gif" width="50"></p>
+<p><em>Full-Time Microverse Student</em><img src="https://gph.is/g/Zk7G7qm" width="50"></p>
 
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
