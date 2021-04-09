@@ -1,5 +1,5 @@
 
-<h2> Hi, This Hamdi Iheb AKA IGOR! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<h2> Hi, This Hamdi Iheb AKA IGOR! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Full-Time Microverse Student</em></p>
 
 
