@@ -8,8 +8,7 @@
 ```javascript
 const eliVillalejos = {
   pronouns: ["he", "his"],
-  code: [JavaScript,C,C++,C#,HTML/CSS,Bootstrap,Php
-  Tailwind CSS],
+  code: [JavaScript,C,C++,C#,HTML/CSS,Bootstrap,Php],
   askMeAbout: [History, Music, food recipe],
   challenge: "Baking some coding cookies inside my localhost",
   'My little cat ready to roar']
