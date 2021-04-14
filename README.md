@@ -11,6 +11,6 @@ const eliVillalejos = {
   code: [JavaScript,C,C++,C#,HTML/CSS,Bootstrap,Php],
   askMeAbout: [History, Music, food],
   Language: [Arabic, English, French, Russian],
-  challenge: "Baking some coding cookies inside my localhost",
-  'My little cat ready to roar']
+  challenge: "Baking some codes inside my localhost",
+  'Have more cats']
 }
