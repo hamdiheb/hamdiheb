@@ -10,6 +10,7 @@ const eliVillalejos = {
   pronouns: ["he", "his"],
   code: [JavaScript,C,C++,C#,HTML/CSS,Bootstrap,Php],
   askMeAbout: [History, Music, food],
+  Language: [Arabic, English, French, Russian],
   challenge: "Baking some coding cookies inside my localhost",
   'My little cat ready to roar']
 }
