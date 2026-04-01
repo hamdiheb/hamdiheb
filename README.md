@@ -10,5 +10,5 @@ const hamdiheb = {
   pronouns: ["he", "his"],
   code: [JavaScript,C,C++,C#,HTML/CSS,Bootstrap,Php],
   askMeAbout: [History, Music, food],
-  Language: [Arabic, English, French, Spanish ],
+  Language: [Arabic, English, French, Spanish, Catalan ],
 }
